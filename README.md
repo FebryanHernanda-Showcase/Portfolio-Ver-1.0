@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Febryan Hernanda Mashudi</h1>
+<h3 align="center">A passionate frontend developer & UI/UX Designer from Indonesia</h3>
+
 # 💫 About Me:
 🌱 I’m currently learning Web Development<br>💬 Ask me about Web Development and UI/UX Design<br>📫 How to reach me febryanhernandamashudi@gmail.com
 
